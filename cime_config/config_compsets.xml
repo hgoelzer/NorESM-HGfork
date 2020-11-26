@@ -535,6 +535,12 @@
     <lname>1850_CAM60%PTAERO_CLM50%BGC-CROP_CICE_BLOM_MOSART_CISM2%EVOLVE_SWAV</lname>
   </compset>
 
+  <!-- Keyclim 1850 compsets with CISM -->
+  <compset>
+    <alias>N1850frc2G</alias>
+    <lname>1850_CAM60%NORESM%FRC2_CLM50%BGC-CROP_CICE%NORESM-CMIP6_BLOM%ECO_MOSART_CISM2%EVOLVE_SWAV_BGC%BDRDDMS</lname>
+  </compset>
+
   <compset>
     <alias>N1850CwWs</alias>
     <lname>1850_CAM60%WTSM_CLM50%BGC_CICE_BLOM_MOSART_SGLC_SWAV</lname>
